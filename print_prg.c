@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ *
  * print_prg - writes the character c to stdout
  * @a: input char
  * @buf: buffer pointer
