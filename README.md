@@ -18,13 +18,12 @@ These arguments are placed using the percentage '%' operator
 #### Resources
 
 ------------
-Dependance
+Dependance.
 
 
 #### Authorized functions and macros
 
 ------------
-
 
 write (man 2 write)
 malloc (man 3 malloc)
