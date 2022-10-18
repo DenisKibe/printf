@@ -206,7 +206,6 @@ Handle the following custom conversion specifier:
 16. ###### *
 All the above options work well together.
 
-### Authors;
-
+Authors;
 - OLUWAMAYOWA OLAWUMI
 - BANELE MNCUBE
