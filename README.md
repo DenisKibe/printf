@@ -10,10 +10,9 @@ printf team project
 The printf function sends formatted output to stdout.
 A custom _printf() for learning purposes was developed by  "CODEWITHMAYOR" AND "BANELEMNCUBE".
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
-These arguments are placed using the percentage '%' operator
+These arguments are placed using the percentage '%' operator.
 
 ------------
-
 
 #### Resources
 
@@ -38,8 +37,6 @@ va_arg (man 3 va_arg)
 #### Compilation
 
 ------------
-
-
 
 The code must be compiled this way:
 
